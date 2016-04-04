@@ -1,0 +1,21 @@
+{
+  "name": "Adafruit-SSD1331",
+  "keywords": "display, 1331, color, graphics, led, oled",
+  "description": "This is a library for the 0.96\" 16-bit Color OLED with SSD1331 driver chip",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/adafruit/Adafruit-SSD1331-OLED-Driver-Library-for-Arduino.git"
+  },
+  "dependencies":
+  {
+    "name": "Adafruit-GFX",
+    "frameworks": "arduino"
+  },
+  "frameworks": "arduino",
+  "examples": "examples/*/*.ino",
+  "platforms": [
+      "atmelavr",
+      "espressif"
+  ]
+}
