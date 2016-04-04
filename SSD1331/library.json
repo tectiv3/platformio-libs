@@ -13,7 +13,7 @@
     "frameworks": "arduino"
   },
   "frameworks": "arduino",
-  "examples": "examples/*/*.ino",
+  "examples": "examples/*/*.pde",
   "platforms": [
       "atmelavr",
       "espressif"
